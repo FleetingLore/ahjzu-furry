@@ -22,8 +22,8 @@ inner_lore_key_escape = "\\=="
 
 [renderer]
 site_title = "易海毛社 | 简明档案平台"
-from_lore_path = "./src"
-to_html_path = "./docs-target"
+from_lore_path = "."
+to_html_path = "./target"
 lang = "en-US"
 link_base = "https://fleetinglore.github.io/ahjzu-furry"
 scripts = [
